@@ -62,11 +62,21 @@ The project combines a clean calculator UI with **calculation history, theme swi
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F472B6&height=3&section=header" width="60%">
 </p>
 
+<div align="center">
+
 ## ◉ Preview
 
-<p align="center">
-  <em>Desktop & mobile screenshots coming soon...</em>
-</p>
+### 💻 Desktop
+
+<img src="./calculator-desktop.PNG" width="80%" alt="Modern Calculator Desktop Preview">
+
+<br><br>
+
+### 📱 Mobile
+
+<img src="./calculator-mobile.jpeg" width="35%" alt="Modern Calculator Mobile Preview">
+
+</div>
 
 ---
 
