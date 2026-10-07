@@ -1,124 +1,126 @@
-# 🧮 Modern Calculator
+# ⌁ Modern Calculator
 
-A modern and responsive calculator built with **HTML, CSS, and JavaScript**.
+<p align="center">
+  A sleek, responsive calculator built with JavaScript — combining clean UI, useful features, and interactive functionality.
+</p>
 
-This project was built as part of my JavaScript learning journey to practice DOM manipulation, events, arrays, objects, localStorage, and interactive UI development.
+<p align="center">
+  <strong>HTML • CSS • JavaScript • Local Storage</strong>
+</p>
 
----
+<br>
 
-## ✨ Features
+<div align="center">
 
-- 🧮 Basic arithmetic operations
-- ➕ Addition, subtraction, multiplication & division
-- 📊 Percentage calculation
-- 🔄 Positive / negative number toggle
-- 🗑️ Delete & All Clear functionality
-- 🕘 Calculation history
-- 💾 History saved with Local Storage
-- 🌓 Dark & Light theme
-- ⌨️ Keyboard support
-- 📱 Fully responsive design
-- ⚠️ Error handling for invalid calculations
-- 🖱️ Interactive button animations
+### ◈ Live Demo
 
----
+<a href="https://devv-sabanaz.github.io/Modern-Calculator/">
+  <strong>🚀 Open Modern Calculator</strong>
+</a>
 
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- DOM Manipulation
-- Local Storage
-- JSON
-- Responsive Design
+</div>
 
 ---
 
-## 🚀 Live Demo
+## ⟡ About The Project
 
-👉 **[View Live Calculator](https://devv-sabanaz.github.io/Modern-Calculator/)**
+Modern Calculator is an interactive calculator built as part of my **JavaScript learning journey**.
 
----
+Instead of creating a basic calculator with only arithmetic operations, I used this project to practice JavaScript concepts through a more complete real-world interface.
 
-## 📸 Preview
-
-![Modern Calculator Preview](screenshot.png)
+The project combines a clean calculator UI with **calculation history, theme switching, keyboard support, and persistent data storage**.
 
 ---
 
-## 📚 What I Practiced
+## ✦ What Can It Do?
 
-While building this project, I practiced several important JavaScript concepts:
+| Feature | Description |
+|---|---|
+| 🧮 Calculations | Perform basic arithmetic operations |
+| ⌫ Delete | Remove the last entered character |
+| ♻️ Clear | Reset the calculator instantly |
+| ∿ Percentage | Convert values into percentages |
+| ± Number Toggle | Switch between positive and negative values |
+| ◷ History | View previous calculations |
+| 💾 Local Storage | Keep history after refreshing |
+| ◐ Theme Switch | Toggle between Dark & Light mode |
+| ⌨ Keyboard | Use keyboard shortcuts for calculations |
+| 📐 Responsive UI | Works across desktop, tablet & mobile |
+| ⚡ Error Handling | Handles invalid calculations gracefully |
+
+---
+
+<div align="center">
+
+## ◉ Preview
+
+*Screenshots coming soon...*
+
+</div>
+
+---
+
+## ⌘ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
+
+### Core Technologies
+
+- **HTML5** — Structure & semantic markup
+- **CSS3** — Styling, animations & responsive design
+- **JavaScript** — Logic & interactivity
+- **Local Storage** — Persistent calculation history & theme preference
+- **JSON** — Saving and retrieving stored data
+
+---
+
+## ❍ JavaScript Concepts Practiced
+
+Building this project helped me practice:
 
 - Variables & data types
 - Functions
-- Arrays & objects
+- Arrays
+- Objects
+- Conditional statements
 - Event listeners
 - DOM manipulation
-- Conditional statements
+- Dynamic element creation
 - String methods
+- Regular expressions
 - `try...catch`
 - `localStorage`
 - `JSON.parse()`
 - `JSON.stringify()`
 - Keyboard events
-- Dynamic HTML elements
+- Array methods
+- Responsive UI interaction
 
 ---
 
-## 💡 Key Features Explained
+## ◌ A Little More Than A Calculator
 
-### 🕘 Calculation History
+### ◷ Calculation History
 
-Every successful calculation is stored in an array and displayed in the history panel.
+Every successful calculation is stored and displayed in the history panel.
 
-The history is also saved using **Local Storage**, so calculations remain available even after refreshing the page.
+The history is also saved using **Local Storage**, allowing it to remain available even after refreshing the page.
 
-### 🌓 Dark & Light Mode
+### ◐ Dark & Light Mode
 
-Users can switch between dark and light themes.
+The calculator includes a theme switcher that allows users to move between dark and light modes.
 
-The selected theme is saved using Local Storage so the preference remains after refreshing the page.
+The selected theme is stored locally so the preference remains after a page refresh.
 
-### ⌨️ Keyboard Support
+### ⌨ Keyboard Interaction
 
-The calculator also supports keyboard input for numbers and basic operators.
+The calculator can also be controlled using the keyboard.
 
-`Enter` → Calculate  
-`Backspace` → Delete  
-`Escape` → Clear
-
----
-
-## 📱 Responsive Design
-
-The calculator is designed to work across different screen sizes including:
-
-- 💻 Desktop
-- 💻 Laptop
-- 📱 Mobile
-- 📱 Tablet
-
----
-
-## 🎯 Learning Goal
-
-The main goal of this project was to strengthen my **JavaScript fundamentals by building a real interactive application** instead of only practicing individual concepts.
-
-This project helped me understand how JavaScript can control the DOM, handle user interactions, store data, and create a more dynamic user experience.
-
----
-
-## 👩‍💻 Author
-
-**Saba Naz**
-
-Frontend Developer • AI Engineering • BS Data Science Student
-
-- GitHub: [@devv-SabaNaz](https://github.com/devv-SabaNaz)
-- LinkedIn: [Saba Naz](https://www.linkedin.com/in/saba-naz-datascientist/)
-
----
-
-⭐ If you found this project useful, feel free to give it a star!
+```text
+Enter      → Calculate
+Backspace  → Delete
+Escape     → Clear
